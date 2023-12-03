@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F7BDAE72-469F-4F45-E374-39B4A0548E74}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "uepro",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
